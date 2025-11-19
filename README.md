@@ -7,7 +7,7 @@ This is the README for the CarpPlanner program for processing and analyzing data
 Download the repository contents or clone locally using Git.
 The main script is included as a Jupyter Notebook. The authors suggest running in Jupyter. https://jupyter.org/
 Open the working directory. Below is the file tree.
-
+```
 ├───CarpPlanner
 │   CarpPlanner Banner.png
 │   CarpPlanner Codebook draft2.docx
@@ -39,7 +39,7 @@ Open the working directory. Below is the file tree.
 │       2025 Carp Handling Log.xlsx
 │
 └───Output_Files
-
+```
 Open CarpPlanner.ipynb. Python code is contained in a sequence of "cells". 
 One can run all cells at once by clicking run -> run all cells. Alternatively, one can run cells one-by-one by pressing shift-enter. 
 Try running all cells. Check the Output_Files directory. If it is working, the output files should be identical to the files in Example_Output.  
