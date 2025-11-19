@@ -48,11 +48,13 @@ One you show it is working on your computer, you can replace input files in Fish
 
 # Dependencies
 The included Jupyter notebook uses the following Python libraries. Other versions may work. If errors arise due to dependencies, consider using a virtual environment to ensure all the correct versions are being used.
+```
 Python: 3.11.7
 pandas: 2.1.4
 numpy: 1.26.4
 matplotlib: 3.8.0
 seaborn: 0.12.2
+```
 # Reporting Bugs
 Report any bugs to Julie Badger (beenk006@umn.edu). 
 When reporting bugs, please include the any output printed in the Jupyter, as well as any output files saved when running the pipeline.
