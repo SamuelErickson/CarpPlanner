@@ -1,4 +1,5 @@
-﻿![CarpPlanner Banner](./_pictures_/_CarpPlannerBanner_.png)
+﻿![CarpPlanner Banner](https://github.com/SamuelErickson/CarpPlanner/blob/master/CarpPlanner%20Banner.png?raw=true)
+
 # CarpPlanner
 This is the README for the CarpPlanner program for processing and analyzing datasets from husbandry of carp. CarpPlanner can be used to filter and analyze data generated during the spawning, husbandry, and experimentation on individually labeled carp. 
 
